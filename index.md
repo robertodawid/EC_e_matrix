@@ -77,68 +77,38 @@
 </span>
 
 ***
->prueba
 
 ## References
 
 <span style="font-size:0.75em; font-style: italic">
-[1] IRENA. Renewable Power Generation Costs in 2017. 2018.
-
-[2] EIA. Assumptions to the Annual Energy Outlook 2017. 2017.
-
-[3] ESMAP. Geothermal handbook: Planning and FinancinG Power Generation. 2012.
-
-[4] IRENA. Geothermal Power: Technology Brief. Abu Dhabi: 2017.
-
-[5] LAZARD. LAZARD&#39;s levelized cos t of energy analysis. 2017.
-
-[6] IRENA. Renewable Power Generation Costs in 2018. Abu Dhabi: 2019. https://doi.org/10.1007/SpringerReference\_7300.
-
-[7] EIA. Construction costs for most power plant types have fallen in recent years. Today in Energy 2017. https://www.eia.gov/todayinenergy/detail.php?id=31912 (accessed July 3, 2020).
-
-[8] IEA-NEA. Projected Costs of Generating Electricity 2015 Edition. OECD PUBLICATIONS; 2015.
-
-[9] ARCH. PRECIOS COMBUSTIBLES – Agencia de Regulación y Control Hidrocarburífero n.d. https://www.controlhidrocarburos.gob.ec/precios-combustibles/ (accessed March 3, 2020).
-
-[10] Pacheco M. Ecuador importará gas natural para cubrir la demanda. El Comer 2018. https://www.elcomercio.com/actualidad/ecuador-importacion-gasnatural-demanda-inversion.html (accessed July 3, 2020).
-
-[11] IEA. World Energy Outlook 2019 2019. https://doi.org/10.1787/caf32f3b-en.
-
-[12] ARCONEL. Proyecto Hidroeléctrico San José de Minas – ARCONEL n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-san-jose-de-minas/ (accessed February 25, 2020).
-
-[13] UNFCCC. CDM: San José de Minas Hydroelectric Project 2008. https://cdm.unfccc.int/Projects/DB/SGS-UKL1207676097.8/view (accessed February 25, 2020).
-
+[1] IRENA. Renewable Power Generation Costs in 2017. 2018.<br />
+[2] EIA. Assumptions to the Annual Energy Outlook 2017. 2017.<br />
+[3] ESMAP. Geothermal handbook: Planning and FinancinG Power Generation. 2012.<br />
+[4] IRENA. Geothermal Power: Technology Brief. Abu Dhabi: 2017.<br />
+[5] LAZARD. LAZARD&#39;s levelized cos t of energy analysis. 2017.<br />
+[6] IRENA. Renewable Power Generation Costs in 2018. Abu Dhabi: 2019. https://doi.org/10.1007/SpringerReference\_7300.<br />
+[7] EIA. Construction costs for most power plant types have fallen in recent years. Today in Energy 2017. https://www.eia.gov/todayinenergy/detail.php?id=31912 (accessed July 3, 2020).<br />
+[8] IEA-NEA. Projected Costs of Generating Electricity 2015 Edition. OECD PUBLICATIONS; 2015.<br />
+[9] ARCH. PRECIOS COMBUSTIBLES – Agencia de Regulación y Control Hidrocarburífero n.d. https://www.controlhidrocarburos.gob.ec/precios-combustibles/ (accessed March 3, 2020).<br />
+[10] Pacheco M. Ecuador importará gas natural para cubrir la demanda. El Comer 2018. https://www.elcomercio.com/actualidad/ecuador-importacion-gasnatural-demanda-inversion.html (accessed July 3, 2020).<br />
+[11] IEA. World Energy Outlook 2019 2019. https://doi.org/10.1787/caf32f3b-en.<br />
+[12] ARCONEL. Proyecto Hidroeléctrico San José de Minas – ARCONEL n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-san-jose-de-minas/ (accessed February 25, 2020).<br />
+[13] UNFCCC. CDM: San José de Minas Hydroelectric Project 2008. https://cdm.unfccc.int/Projects/DB/SGS-UKL1207676097.8/view (accessed February 25, 2020).<br />
 [14] ARCONEL. Proyecto Hidroeléctrico Chorrillos – ARCONEL n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-chorrillos/ (accessed February 25, 2020).
-
-[15] SENPLADES. Proyectos emblematicos en Zamora Chinchipe 2014.
-
-[16] ELECAUSTRO. Proyecto Central Eólica Minas de Huascachaca 2019. http://www.elecaustro.com.ec/index.php?option=com\_content&amp;view=article&amp;id=65&amp;Itemid=457 (accessed February 25, 2020).
-
-[17] ARCONEL. Proyecto Hidroeléctrico Piatúa n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-coca-codo-sinclair/ (accessed February 25, 2020).
-
-[18] ARCONEL. Proyecto hidroeléctrico Chalpi Grande n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-chalpi-grande/ (accessed February 25, 2020).
-
-[19] EPP. Proyecto Hidroeléctrico Magdalena. 2018.
-
+[15] SENPLADES. Proyectos emblematicos en Zamora Chinchipe 2014.<br />
+[16] ELECAUSTRO. Proyecto Central Eólica Minas de Huascachaca 2019. http://www.elecaustro.com.ec/index.php?option=com\_content&amp;view=article&amp;id=65&amp;Itemid=457 (accessed February 25, 2020).<br />
+[17] ARCONEL. Proyecto Hidroeléctrico Piatúa n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-coca-codo-sinclair/ (accessed February 25, 2020).<br />
+[18] ARCONEL. Proyecto hidroeléctrico Chalpi Grande n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-chalpi-grande/ (accessed February 25, 2020).<br />
+[19] EPP. Proyecto Hidroeléctrico Magdalena. 2018.<br />
 [20] ARCONEL. Proyecto hidroeléctrico Ibarra Fugua n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-ibarra-fugua/ (accessed February 25, 2020).
-
-[21] ARCONEL. Proyecto hidroeléctrico Sabanilla n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-sabanilla/ (accessed February 25, 2020).
-
-[22] EPP. Proyecto Hidroeléctrico La Maravilla. 2018.
-
-[23] EPP. Proyecto Hidroeléctrico el Salto. 2018.
-
-[24] MERNNR. Proyecto Hidroeléctrico Quijos. Minist Energy Non-Renewable Natrual Resour n.d. https://www.recursosyenergia.gob.ec/proyecto-hidroelectrico-quijos/ (accessed February 25, 2020).
-
-[25] ELECAUSTRO. Proyecto Múltiple Soldados - Yanuncay 2019. http://www.elecaustro.com.ec/index.php?option=com\_content&amp;view=article&amp;id=64&amp;Itemid=79 (accessed February 25, 2020).
-
-[26] MERNNR. El Aromo Photovoltaic project. Minist Energy Non-Renewable Natrual Resour n.d. http://proyectos.recursosyenergia.gob.ec/aromo.php (accessed February 25, 2020).
-
-[27] MERNNR. Villonaco 2&amp;3 Wind Farm Project n.d. http://proyectos.recursosyenergia.gob.ec/villonaco.php (accessed February 25, 2020).
-
-[28] CELEC. Información Técnica Proyecto Cardenillo 2018. https://www.celec.gob.ec/hidropaute/proyectos/informacion-tecnica-cardenillo.html (accessed February 25, 2020).
-
-[29] CELEC. Información Técnica Proyecto Río Zamora - Santiago 2018. https://www.celec.gob.ec/hidropaute/proyectos/31-espanol/proyectos/index.php (accessed February 25, 2020).
-
+[21] ARCONEL. Proyecto hidroeléctrico Sabanilla n.d. https://www.regulacionelectrica.gob.ec/proyecto-hidroelectrico-sabanilla/ (accessed February 25, 2020).<br />
+[22] EPP. Proyecto Hidroeléctrico La Maravilla. 2018.<br />
+[23] EPP. Proyecto Hidroeléctrico el Salto. 2018.<br />
+[24] MERNNR. Proyecto Hidroeléctrico Quijos. Minist Energy Non-Renewable Natrual Resour n.d. https://www.recursosyenergia.gob.ec/proyecto-hidroelectrico-quijos/ (accessed February 25, 2020).<br />
+[25] ELECAUSTRO. Proyecto Múltiple Soldados - Yanuncay 2019. http://www.elecaustro.com.ec/index.php?option=com\_content&amp;view=article&amp;id=64&amp;Itemid=79 (accessed February 25, 2020).<br />
+[26] MERNNR. El Aromo Photovoltaic project. Minist Energy Non-Renewable Natrual Resour n.d. http://proyectos.recursosyenergia.gob.ec/aromo.php (accessed February 25, 2020).<br />
+[27] MERNNR. Villonaco 2&amp;3 Wind Farm Project n.d. http://proyectos.recursosyenergia.gob.ec/villonaco.php (accessed February 25, 2020).<br />
+[28] CELEC. Información Técnica Proyecto Cardenillo 2018. https://www.celec.gob.ec/hidropaute/proyectos/informacion-tecnica-cardenillo.html (accessed February 25, 2020).<br />
+[29] CELEC. Información Técnica Proyecto Río Zamora - Santiago 2018. https://www.celec.gob.ec/hidropaute/proyectos/31-espanol/proyectos/index.php (accessed February 25, 2020).<br />
 [30] IIGE. Transporte lidera estadísticas de consumo energético en Ecuador. Inst Investig Geológico y Energético, Visión Gub Para El Desarro Del Sect Energía 2018. https://www.geoenergia.gob.ec/transporte-lidera-estadisticas-de-consumo-energetico-en-ecuador/ (accessed February 25, 2020).
 </span>
