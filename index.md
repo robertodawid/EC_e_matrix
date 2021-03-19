@@ -1,5 +1,6 @@
 # Techno-economic assumptions for power plants
 **Table A 1.** Techno economic assumption for the Ecuador&#39;s model.
+
 |Technologies|Capital Cost|Fixed Cost|Variable Cost|Life Time|Construction time|Capacity factor|Source|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | (USD/kW) | (USD/kW) | (USD/MWh) | years | years | % |
