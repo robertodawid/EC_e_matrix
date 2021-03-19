@@ -72,7 +72,7 @@
 | 2027 | Santiago III, IVc | 1200.0 | 4966.0 | Storage Hydro |
 
 <span style="font-size:0.75em; font-style: italic">
-<sup>a</sup>RoR: Run of the river. <sup>b</sup> Combined cycle gas turbine. <sup>c</sup> in 2019, the Ministry of Energy announced that the initial project was s overestimated, the final capacity should decrease from 3.6 GW to 2.4 GW.
+<sup>a</sup> RoR: Run of the river. <sup>b</sup> Combined cycle gas turbine. <sup>c</sup> in 2019, the Ministry of Energy announced that the initial project was overestimated, the final capacity should decrease from 3.6 GW to 2.4 GW.
 </span>
 
 ***
@@ -139,5 +139,4 @@
 [29] CELEC. Información Técnica Proyecto Río Zamora - Santiago 2018. https://www.celec.gob.ec/hidropaute/proyectos/31-espanol/proyectos/index.php (accessed February 25, 2020).
 
 [30] IIGE. Transporte lidera estadísticas de consumo energético en Ecuador. Inst Investig Geológico y Energético, Visión Gub Para El Desarro Del Sect Energía 2018. https://www.geoenergia.gob.ec/transporte-lidera-estadisticas-de-consumo-energetico-en-ecuador/ (accessed February 25, 2020).
-
 </span>
