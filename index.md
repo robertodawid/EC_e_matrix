@@ -79,7 +79,6 @@
 ## References
 
 <span style="font-size:0.75em; font-style: italic">
-
 [1] IRENA. Renewable Power Generation Costs in 2017. 2018.
 
 [2] EIA. Assumptions to the Annual Energy Outlook 2017. 2017.
