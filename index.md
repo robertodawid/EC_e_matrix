@@ -4,7 +4,6 @@
 |Technologies|Capital Cost|Fixed Cost|Variable Cost|Life Time|Construction time|Capacity factor|Source|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | (USD/kW) | (USD/kW) | (USD/MWh) | years | years | % |
- |
 | Biomass<sup> 1 | 4400 | 80.0 | 4 | 40 | 3 | varies | [1] |
 | CCGT<sup> 2 | 1100 | 10.9 | 3.4 | 40 | 2 | varies | [2] |
 | Geothermal | 3633 | 35.0 | 2 | 40 | 3 | 80 | [3,4] |
