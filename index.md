@@ -19,11 +19,8 @@
 | Wind_pot<sup> 6,7 | 1900 | 30.0 | - | 25 | 2 | 25 | [1,6] |
 
 <span style="font-size:0.75em; font-style: italic">
-<sup>1</sup>Fluidized bed (FB) boiler.
-<sup>2</sup> Combined cycle gas turbine.
-<sup>3,4,5</sup> Large, medium, and small-scale average capacity factor.
-<sup>6</sup> Average capacity factor and wind speed higher 7.5 ms<sup>-1</sup>.
-<sup>7</sup> Wind potential, adapted from Projected Costs of Generating Electricity 2015 [8]. In the model, we assumed an even expenditure of capital/overnight cost for each year of construction.
+<sup>1</sup>Fluidized bed (FB) boiler. <sup>2</sup> Combined cycle gas turbine.
+<sup>3,4,5</sup> Large, medium, and small-scale average capacity factor. <sup>6</sup> Average capacity factor and wind speed higher 7.5 ms<sup>-1</sup>. <sup>7</sup> Wind potential, adapted from Projected Costs of Generating Electricity 2015 [8]. In the model, we assumed an even expenditure of capital/overnight cost for each year of construction.
 </span>
 
 ***
