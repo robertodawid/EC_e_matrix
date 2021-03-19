@@ -1,6 +1,6 @@
 # Techno-economic assumptions for power plants
-**Table A 1.** Techno economic assumption for the Ecuador&#39;s model.
 
+**Table A 1.** Techno economic assumption for the Ecuador&#39;s model.
 |Technologies|Capital Cost|Fixed Cost|Variable Cost|Life Time|Construction time|Capacity factor|Source|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | (USD/kW) | (USD/kW) | (USD/MWh) | years | years | % |
@@ -49,7 +49,7 @@
 
 | year | Power Plant | Capacity (MW) | Annual average energy (GWh) | Type | Source |
 | --- | --- | --- | --- | --- | --- |
-| 2020 | San Jose de Minas | 6.0 | 40.0 | RoRa | [12,13] |
+| 2020 | San Jose de Minas | 6.0 | 40.0 | RoR<sup>a | [12,13] |
 | | Chorillos | 4.0 | 27.4 | RoR | [14,15] |
 | | Huascachaca | 50.0 | 122.6 | Wind onshore | [16] |
 | 2021 | Piatua | 30.0 | 172.0 | RoR | [17] |
@@ -64,21 +64,22 @@
 | | El Aromo | 200.0 | 280.0 | Solar PV Utility | [26] |
 | | CCGT | 400.0 | - |  Gas turbine |
 | 2023 | Yanuncai | 14.6 | 63.9 | Cascade system – Hydro-Soldados | [25] |
-| | CCb | 600.0 | - | Gas turbine |
+| | CC<sup>b | 600.0 | - | Gas turbine |
 | | Villonaco II y III | 100.0 | - | Wind on-shore | [27] |
 | 2025 | Cardenillo | 596.0 | 3355.8 | Storage Hydro | [28] |
 | 2026 | Geothermal | 150.0 | | Geothermal |
-| | Santiago I, IIc | 1200.0 | 4966.0 | Storage Hydro | [29,30] |
+| | Santiago I, II<sup>c | 1200.0 | 4966.0 | Storage Hydro | [29,30] |
 | 2027 | Santiago III, IVc | 1200.0 | 4966.0 | Storage Hydro |
 
 <span style="font-size:0.75em; font-style: italic">
-</sup>RoR: Run of the river. <sup>b</sup> Combined cycle gas turbine. <sup>c</sup> in 2019, the Ministry of Energy announced that the initial project was s overestimated, the final capacity should decrease from 3.6 GW to 2.4 GW.
+<sup>a</sup>RoR: Run of the river. <sup>b</sup> Combined cycle gas turbine. <sup>c</sup> in 2019, the Ministry of Energy announced that the initial project was s overestimated, the final capacity should decrease from 3.6 GW to 2.4 GW.
 </span>
 
 ***
 ## References
 
 <span style="font-size:0.75em; font-style: italic">
+
 [1] IRENA. Renewable Power Generation Costs in 2017. 2018.
 
 [2] EIA. Assumptions to the Annual Energy Outlook 2017. 2017.
