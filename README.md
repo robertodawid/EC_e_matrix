@@ -3,4 +3,4 @@ This repository has a short literature review regarding social discount rates an
 - Techno-economic parameters for generation technologies.
 - Fuel prices
 - List of future investments in electricity generation.
-References
+- References
